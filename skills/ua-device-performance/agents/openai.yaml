@@ -1,0 +1,4 @@
+interface:
+  display_name: "UA Device Performance"
+  short_description: "Judge Android UA device performance with V9 mapping."
+  default_prompt: "Use $ua-device-performance to parse UA data and produce V9 pass/fail outputs."
