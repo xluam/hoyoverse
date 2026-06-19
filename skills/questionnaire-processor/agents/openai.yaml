@@ -1,0 +1,4 @@
+interface:
+  display_name: "Questionnaire Processor"
+  short_description: "Clean multilingual survey CSV exports"
+  default_prompt: "Use $questionnaire-processor to process multilingual survey CSV exports into the standardized questionnaire output."

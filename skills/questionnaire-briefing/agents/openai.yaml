@@ -1,0 +1,4 @@
+interface:
+  display_name: "Questionnaire Briefing"
+  short_description: "Generate survey KPI briefing reports"
+  default_prompt: "Use $questionnaire-briefing to summarize a processed questionnaire CSV into KPI briefing metrics."
